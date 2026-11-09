@@ -1,0 +1,7 @@
+01|pegar|Jose|2022|10|9
+04|Anjos e Demonios|Dan Brown|2005|12|11
+05|A vida|Keen|2026|2|2
+06|Algoritmo e Estrutura de Dados|Cormen|2009|3|3
+07|Algoritmo em Linguagem C|Paulo Feofiloff|2009|6|5
+08|Sistema Operacional|Deitel|2012|2|2
+09|Inteligencia Artificial|Luger|2015|1|1
