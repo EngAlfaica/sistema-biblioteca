@@ -11,7 +11,7 @@ Projecto académico (UEM) com foco em estruturas de dados.
 - **Persistência** em ficheiros de texto (`dados/`), carregados ao abrir e guardados ao fechar.
 
 ## Funcionalidades
-- Login (utilizador `bibliotecario`, palavra-passe `biblioteca123`)
+- Login (utilizador ` FENG`, palavra-passe `Feng2026`)
 - Livros: cadastrar, editar, remover, pesquisar; estado Disponível/Esgotado
 - Utilizadores: registar, editar, remover
 - Empréstimos: prazo escolhido em cada empréstimo (por defeito 7 dias), devolução, estado Em curso/Em atraso
